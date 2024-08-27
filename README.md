@@ -29,7 +29,7 @@ For steps on how to add the database URLs as a uBlock Filter, [click me!](https:
 For other adblock services, just use the filter list URL provided above and add it to your custom filter lists.
 
 ## Where does this data come from?
-The data shown is collected from my very own Scam Scanner bot on my [Discord Sever - Scam Finder](https://discord.gg/fpJbN4kBEk). The bot uses specific search queries using the Youtube API on Google Cloud to find scam videos and channels. This repository serves as a hub to list these results.🙂
+The data shown is collected from my very own Scam Scanner bot on my [Discord Sever - Scam Finder](https://discord.gg/jE9HnDMDkw). The bot uses specific search queries using the Youtube API on Google Cloud to find scam videos and channels. This repository serves as a hub to list these results.🙂
 
 ## What are uses of this dataset?
 Almost all of the dataset contains videos that promote malware. This makes the dataset a great way to find fresh malware samples for testing and cybersecurity purposes! Additionally, you may report these bad actors and try to take down videos and channels. This list may also be used in 3rd party applications to block these scam videos and channels from showing up.✅
@@ -39,7 +39,7 @@ My friend created an extension that uses the dataset to help raise awareness abo
 
 ## Contributing
 Ways to contribute:
-- Find wrongly listed channels/video IDs. Make a post [here](https://github.com/Incrypters/YT-ScamDatabase/issues) to alert me. ⚠️
+- Find wrongly listed channels/video IDs. Make a post [here](https://github.com/Luna-CyberSecurity/YT-ScamDatabase/issues) to alert me. ⚠️
 - Give search suggestions for the bot so it can find more videos. Please make the queries specific to eliminate the chances of a wrongly included channel or video. I will review each pull request for this.❔
-- Join my [Discord Sever - Scam Finder](https://discord.gg/fpJbN4kBEk) for real time list of scam video/channels.🤗
+- Join my [Discord Sever - Scam Finder](https://discord.gg/jE9HnDMDkw) for real time list of scam video/channels.🤗
 - If you have any suggestions to improve this repository make a pull request. 🙋‍♂️
